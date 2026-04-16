@@ -70,5 +70,5 @@ SELECT * FROM meteo_paris LIMIT 5;
 
 ## Auteur
 **Licia Attouche** — Data Analyst & Data Engineer
-- LinkedIn : [ton linkedin]
+- LinkedIn : [\[ton linkedin\]](https://www.linkedin.com/in/licia-attouche-845305259/)
 - GitHub : [liciaatt](https://github.com/liciaatt)
